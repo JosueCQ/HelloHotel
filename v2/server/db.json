@@ -1,0 +1,31 @@
+{
+  "rooms": [
+    {
+      "room" : 201,
+      "available": false ,
+      "client" : "Josue Cartagena",
+      "phone" : 992010047,
+      "date_in" : "15/03/2021",
+      "date_out" : "18/03/2021",
+      "mont" : 561.00
+    },
+    {
+      "room" : 202,
+      "available": false ,
+      "client" : "Andres Quipas",
+      "phone" : 984325866,
+      "date_in" : "15/03/2021",
+      "date_out" : "18/03/2021",
+      "mont" : 600.00
+    },
+    {
+      "room" : 203,
+      "available": true ,
+      "client" : "-------------",
+      "phone" : 0,
+      "date_in" : "--/--/----",
+      "date_out" : "--/--/----",
+      "mont" : 0.00
+    }
+  ]
+}
