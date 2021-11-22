@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3db31a8a-b95c-48ba-b0ca-8eef249c295f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/images/platzi-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/server/db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/server/routes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/src/assets/HelloHotel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/src/assets/img/client.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/src/assets/img/inventory.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/src/assets/img/register.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/src/assets/img/rooms.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/src/assets/img/smiling-advisor-to-camera-760.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/src/assets/img/staff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/src/components/administrator/admin-main.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/src/components/administrator/admin-rooms.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/src/components/client/client-main.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/src/core/services/http-common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/src/core/services/rooms-api.services.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/src/plugins/vuetify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/src/views/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellohotel/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/server/db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/server/routes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/HelloHotel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/HelloHotel_logo_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/HelloHotel_logo_yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/Hotel1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/Hotel2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/hoteles3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/client.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/costs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/feedback.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/fondo1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/fondo2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/fondo3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/hotels/Best Western.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/hotels/Esplendor Cusco.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/hotels/Jose Antonio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/hotels/Manto Hotel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/hotels/Punta Pacífico Bungalows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/hotels/Swissôtel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/hotels/Western Los Andes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/hotels/Xima Cusco.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/hotels/holiday_Inn_Lima.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/inventory.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/publicity.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/register.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/room.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/rooms.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/schedule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/smiling-advisor-to-camera-760.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/img/staff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/landingPage/Gps.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/landingPage/calificar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/landingPage/gestion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/team/Alonso.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/team/Eduardo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/team/Miner.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/team/Prueba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/team/jean.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/assets/team/josue.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/components/Home_App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/components/administrator/admin-client.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/components/administrator/admin-costs.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/components/administrator/admin-feedback.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/components/administrator/admin-inventory.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/components/administrator/admin-login.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/components/administrator/admin-main.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/components/administrator/admin-publicity.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/components/administrator/admin-register.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/components/administrator/admin-rooms.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/components/administrator/admin-schedule.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/components/administrator/admin-staff.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/components/client/client-account.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/components/client/client-main.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/components/client/client-offer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/components/client/client-search.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/core/services/client-api.services.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/core/services/employees-api.services.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/core/services/hotels-api.service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/core/services/http-common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/core/services/inventories-api.services.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/core/services/rooms-api.services.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/plugins/vuetify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/src/views/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v_parcial/vue.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21HAVgBWL7gmFttHz1jBmTygH6R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Web_Application" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3db31a8a-b95c-48ba-b0ca-8eef249c295f" name="Changes" comment="" />
+      <created>1637587664274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637587664274</updated>
+      <workItem from="1637587666414" duration="218000" />
+      <workItem from="1637591485023" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
